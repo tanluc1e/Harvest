@@ -1,0 +1,6 @@
+name: GatLua
+version: '${project.version}'
+main: me.tanluc.gatlua.Gatlua
+api-version: 1.16
+authors: [ TanLuc ]
+description: Gặt lúa bằng chuột phải
